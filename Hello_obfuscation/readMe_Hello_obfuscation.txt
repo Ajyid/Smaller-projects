@@ -1,0 +1,1 @@
+This project shows of a slightly different version of the common hello world project.
